@@ -9,7 +9,7 @@ You can see what I am currently up to on [nicolaslouge.com](https://nicolaslouge
 - 🚀 I'm currently (re)learning: `.html`, `.css`,`.js`,`.ts`
 - 📅 What I want to learn next: `TailwindCSS`, `React`, `Next.js`, and so much more.
 - 👯 I’m looking to collaborate on **Open Source** projects
-- 🇫🇷 I speak French / Je parle français
+- 🇫🇷  I speak French / Je parle français
 
 ### 🌳 My Digital Garden
 
