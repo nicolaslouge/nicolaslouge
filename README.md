@@ -1,4 +1,4 @@
-# Hello, I'm Nicolas Louge 👋
+## Hello, I'm Nicolas Louge 👋
 
 I'm a Project Manager working at Microsoft Canada (in the Digital, Ops, and Programs team) as a vendor via Wunderman Thompson. I started to code in 2004 with Dreamweaver and later learned some basic HTML and CSS to have the best-looking MySpace profile on the internet. I'm now brushing up on my CS skills to build, create, and support amazing projects that are important to me.
 
