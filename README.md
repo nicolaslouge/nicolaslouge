@@ -1,11 +1,11 @@
-## Hello, I'm Nicolas Louge 👋
+## Hi, I'm Nicolas Louge 👋
 
-I'm a Project Manager working at Microsoft Canada (in the Digital, Ops, and Programs team) as a vendor via Wunderman Thompson. I started to code in 2004 with Dreamweaver and later learned some basic HTML and CSS to have the best-looking MySpace profile on the internet. I'm now brushing up on my CS skills to build, create, and support amazing projects that are important to me.
+I'm a Project Manager working at Microsoft Canada 🇨🇦 (in the Digital, Operations, and Programs team) as a vendor via Wunderman Thompson. I started to code in 2004 with Dreamweaver and later learned some basic HTML and CSS to have the best-looking MySpace profile on the internet. I'm now brushing up on my CS skills to build, create, and support amazing projects that are important to me.
 
 You can see what I am currently up to on [nicolaslouge.com](https://nicolaslouge.com/).
 
 - 🌱 Growth mindset
-- 👨🏻‍🚀 Pronouns: he/him/il
+- 👨🏻‍🚀 Pronouns: he/him
 - 🚀 I'm currently (re)learning: `.html`, `.css`,`.js`,`.ts`
 - 📅 What I want to learn next: `TailwindCSS`, `React`, `Next.js`, and so much more.
 - 👯 I’m looking to collaborate on **Open Source** projects
