@@ -1,21 +1,18 @@
 ## Hi, I'm Nicolas Louge 👋
 
-**Senior Technical Program Manager** 
+**Senior Technical Program Manager**
+> Open to Work - I’m currently looking for a new role in Toronto (hybrid/remote)
 
-I started to code in 2004 with Dreamweaver and later learned some basic HTML and CSS to have the best-looking MySpace profile on the internet. I'm now brushing up on my CS skills to build, create, and support amazing projects that are important to me.
+My coding journey started in 2004 with Dreamweaver, racing to build the best-looking MySpace profile on the internet with HTML and CSS. Fast forward to today: AI has completely rekindled my passion for building. I'm constantly learning, experimenting with new technologies, and rediscovering the joy of creation that first drew me to code.
 
-You can see what I am currently up to on [nicolaslouge.com](https://nicolaslouge.com/).
+🌱 Always learning, always building
+👯 Open to collaborating on Open Source projects
+🇫🇷 Je parle français
 
-- 🌱 Growth mindset
-- 👨🏻‍🚀 Pronouns: he/him
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 🇫🇷  I speak French / Je parle français
-
-### 🌳 My Digital Garden
-
-You can find my blog posts on [nicolaslouge.com](https://nicolaslouge.com/). I write about modern web development, projects I'm working on, and the tech industry.
+🌳 My Digital Garden
+I write about side projects, AI explorations, navigating the tech industry, and whatever else catches my curiosity at nicolaslouge.com.
 
 ### 📬 Get in Touch
 
 - Web: [nicolaslouge.com](https://nicolaslouge.com/)
-- LinkedIn: [linkedin.com/in/nicolaslouge](https://www.linkedin.com/in/nicolaslouge/en)
+- LinkedIn: [linkedin.com/in/nicolaslouge](https://www.linkedin.com/in/nicolaslouge)
